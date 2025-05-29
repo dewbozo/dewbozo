@@ -16,7 +16,7 @@ I love digging into information, finding patterns, and creating visuals that mak
 
 - 🔭 Looking for a **remote** or **in-person** opportunity as a Data Analyst  
 - 🤝 Open to **freelance projects**
-- 🌱 Learning: **Power BI**
+- 🌱 Learning: **Power BI | Italian | German**
 
 ---
 
