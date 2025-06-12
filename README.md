@@ -16,7 +16,7 @@ I love digging into information, finding patterns, and creating visuals that mak
 
 - 🔭 Looking for a **remote** or **in-person** opportunity as a Data Analyst  
 - 🤝 Open to **freelance projects**
-- 🌱 Learning: **Power BI | Italian | German**
+- 🌱 Learning: **Power BI | Data Analytics in Google Cloud  | Italian | German**
 
 ---
 
@@ -39,7 +39,7 @@ I love digging into information, finding patterns, and creating visuals that mak
 ### 📫 Contact Me
 
 - 📧 Email: **rociobozolavin@gmail.com**  
-- 📄 [View my Resume](https://github.com/dewbozo/Resume/blob/main/Resume%20Rocio%20Bozo.pdf)
+- 📄 [View my Resume](https://github.com/dewbozo/Resume/blob/main/CV%20DataAnalyst%20RocioBozo.pdf)
 
 ---
 
